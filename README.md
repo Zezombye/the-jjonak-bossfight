@@ -151,7 +151,80 @@ JJonak summons a Zenyatta who will ride an Orisa. The orisa has very high HP (pr
 - If the orisa is killed first, the zenyatta will just drop down, and act normally.
 - If the Zenyatta is killed first, then Orisa will immediately drop bongo, then begin firing towards players with no speed reduction in firing (and with fast fire if Orisa is using Fortify). Orisa will still charge towards players to trample them.
 
-### Attack 
+### Attack 2-14 - Hammond Mines
+
+An invisible Hammond drops mines.
+
+## Remaining unused abilities
+
+- Dva's Missiles
+- Orisa's shield
+- Orisa's Halt
+- Rein's Firestrike
+- Roadhog's Hook
+- Roadhog's primary/secondary fire
+- Sigma's Shield
+- Sigma's Rock
+- Sigma's primary
+- Sigma's Ult
+- Winston's Shield
+- Winston's jump pack (it makes an effect when landing)
+- Winston's primary
+- Zarya's shields
+- Zarya's Graviton
+- Zarya's primary
+- Zarya's secondary
+- Echo's primary
+- Echo's secondary
+- Echo's beam
+- Echo herself (she is an omnic so can be visible)
+- Genji's Deflect
+- Hanzo's Dragonstrike
+- Junkrat's trap
+- Junkrat's mines
+- Junkrat's primary
+- Junkrat's ult
+- Mccree's Flashbang
+- Mei's secondary
+- Mei's wall
+- Mei's ultimate
+- Pharah's primary
+- Pharah's boop
+- Pharah's ult
+- Reaper's Teleport (effect)
+- Soldier's rockets
+- Soldier's biotic field
+- Sombra's Translocator (tp effect for phase 1 or an enemy?)
+- Sombra's Hack
+- Symmetra's primary
+- Symmetra's secondary
+- Symmetra's teleporter (could be used for turret bombing?)
+- Symmetra's ult
+- Torbjorn's primary/secondary
+- Torbjorn's ult
+- Tracer's blink (effect)
+- Tracer's recall (effect)
+- Tracer's ult
+- Widow's mine
+- Ana's nade
+- Ana's sleep
+- Ana's primary
+- Ana's ult (effect)
+- Baptiste's lamp
+- Baptiste's secondary
+- Baptiste's ult
+- Brigitte's primary
+- Brigitte's whip shot
+- Brigitte's ult
+- Lucio's primary
+- Lucio's ult
+- Mercy's beams
+- Mercy's ressurect
+- Mercy's pistol
+- Moira's secondary
+- Moira's orbs
+- Moira's fade (effect)
+- Moira's ult
 
 ## The Zencopter
 
