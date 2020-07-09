@@ -106,7 +106,7 @@ Bobs spawn around the map.
 
 JJonak raises dead Bastions from the ground, using the corpses killed by the Junkertown inhabitants.
 
-### Attack 2-4 - Lasers
+### Attack 2-4 - Hentai Lasers
 
 JJonak fires lasers from each of his 4 tentacles, using the fast fire of Zenyatta (invisible projectiles, a beam is used) combined with the infinite projectile speed. The players must fire on the tentacle heads to kill the invisible Zenyattas. The Zenyattas cannot receive headshots.
 
@@ -129,6 +129,10 @@ One of 「THE IRIS」's tentacles punches the player, knocking him away. This wi
 ### Attack 2-9 - Summon Slams
 
 An invisible Doomfist uses his ult where a player is, spawning a Zenyatta bot. This would be used only on a group of players, to prevent them from camping.
+
+### Attack 2-10 - Sweeping Lasers
+
+5 lasers are fired from 「THE IRIS」's head (same technique as for 2-4, but using dummy bots as we cannot control the facing direction of normal bots). The lasers start at a 90° angle from the ground (pointing down) and gradually go to 0° (pointing forward), towards a player. Each laser is spaced by 2° (TBD). The attack can be repeated multiple times in succession.
 
 ## The Zencopter
 
