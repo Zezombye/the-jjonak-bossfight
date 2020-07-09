@@ -21,6 +21,8 @@ The enemies will be on team 2. There will be 6 Hard Zenyatta bots, and 12 additi
 
 Implementing pathfinding for dummy bots would be a hard task that will increase the server load. However, it would enable more creativity with attacks.
 
+To respect the lore (omegalul), JJonak will only have visible omnics (Zenyatta, Orisa, Bastion, Echo, Bob, and mechanical abilities such as turrets, shields, or snowball). Ultimate lines are to be avoided when possible.
+
 The fight will be composed of 2 phases:
 
 ## Phase 1 - No Stand
