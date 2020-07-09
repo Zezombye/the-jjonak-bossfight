@@ -47,7 +47,7 @@ JJonak uses invisible Zenyattas to fire rapidly by alternating primary fire, for
 
 > The Omnic brain is a force to be reckoned with!
 
-An invisible Sombra casts EMP on the position of JJonak.
+An invisible Sombra casts EMP on the position of JJonak. EMP has a chance of 50% (TBD) to invert aim speed, or to make aim speed very slow or very fast. EMP has also a chance of 50% (TBD) to invert throttle.
 
 ### Attack 1-4 - Zarya Bubble
 
@@ -134,9 +134,29 @@ An invisible Doomfist uses his ult where a player is, spawning a Zenyatta bot. T
 
 5 lasers are fired from 「THE IRIS」's head (same technique as for 2-4, but using dummy bots as we cannot control the facing direction of normal bots). The lasers start at a 90° angle from the ground (pointing down) and gradually go to 0° (pointing forward), towards a player. Each laser is spaced by 2° (TBD). The attack can be repeated multiple times in succession.
 
+### Attack 2-11 - Dva bomb
+
+JJonak launches a Dva bomb.
+
+### Attack 2-12 - Blindness
+
+> You are blinded by your own greed!
+
+A purple sphere (play effect) comes from JJonak's head. Any player that can see JJonak's head will be blinded for 10 seconds (TBD) using the "sphere on event player" pseudo-blindness glitch. The blindness will gradually fade by putting the sphere radius higher than 204.
+
+### Attack 2-13 - Omnic Horses
+
+JJonak summons a Zenyatta who will ride an Orisa. The orisa has very high HP (providing a good opportunity, almost a necessity, for McCree to use his ult) and will charge towards players, making them lose 50 (TBD) HP and knocking them down if trampled. The Orisa will not use abilities other than Fortify.
+
+- If the orisa is killed first, the zenyatta will just drop down, and act normally.
+- If the Zenyatta is killed first, then Orisa will immediately drop bongo, then begin firing towards players with no speed reduction in firing (and with fast fire if Orisa is using Fortify). Orisa will still charge towards players to trample them.
+
+### Attack 
+
 ## The Zencopter
 
 > I will show you the true power of 「THE IRIS」!
+
 > You utter fools! Omnic science is the best in the world!
 
 https://gfycat.com/antiqueajaralaskajingle
@@ -186,6 +206,8 @@ The revive system is like Borderlands 2's Fight for your life mechanic. When a p
 When in FFYL mode, the player will have the hacked status, have greatly reduced speed and have a "bronze aim" effect (aim speed that varies every 0.25 second). He will be invisible to enemies, but not phased out, so that he may be used as cover while resurrecting.
 
 The FFYL mode also has a timer. If that timer expires, the player is dead. The duration of the timer decreases with each revive, so that if a player is downed several times successively, he will eventually die. The timer is put on pause while the player is being resurrected. The duration of the timer gradually increases with time alive (if it decreased by being revived), until it reaches the original maximum.
+
+In phase 2, if a player enters FFYL mode, JJonak will spawn 2 (TBD) bot Zenyattas so that the players may use them to revive.
 
 To revive a downed ally, the player must hold crouch while within range and LoS of the ally. During this time, the player will also have greatly reduced speed, and will not be able to use any weapon or ability. While holding crouch, the revive bar will increase. If the resurrection is interrupted, the revive bar will decay but not be immediately reduced to 0. The player is revived once the revive bar is full.
 
