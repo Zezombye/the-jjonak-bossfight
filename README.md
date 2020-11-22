@@ -157,6 +157,10 @@ JJonak summons a Zenyatta who will ride an Orisa. The orisa has very high HP (pr
 
 An invisible Hammond drops mines.
 
+### Attack 2-15 - Death Rays
+
+JJonak fires 32 (TBD) beams at random spots on the ground. Less than 1 second after, Anas fire 500% proj speed nades at these spots.
+
 ## Remaining unused abilities
 
 - Dva's Missiles
@@ -208,7 +212,6 @@ An invisible Hammond drops mines.
 - Tracer's recall (effect)
 - Tracer's ult
 - Widow's mine
-- Ana's nade
 - Ana's sleep
 - Ana's primary
 - Ana's ult (effect)
